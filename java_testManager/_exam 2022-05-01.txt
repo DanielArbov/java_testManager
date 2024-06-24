@@ -1,0 +1,24 @@
+
+
+ The test: 
+
+
+question nuber - 1: 
+ Question: The Dead Sea is?
+ 
+1: The Dead Sea is salty
+2: The Dead Sea is sweet
+3: The Dead Sea is bitter
+3: All the answers are correct 
+4: More than one correct answer 
+question nuber - 2: 
+ Question: Barbie is?
+ 
+1: Barbie is a doll
+2: Barbie is a whale
+3: Barbie is a tractor
+3: All the answers are correct 
+4: More than one correct answer 
+question nuber - 3: 
+ Question: What is the answer to everything?
+ 
